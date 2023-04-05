@@ -1,0 +1,3 @@
+(library
+ (name rig)
+ (libraries graphics camlimages))
