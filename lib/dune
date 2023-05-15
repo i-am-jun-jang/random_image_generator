@@ -1,3 +1,4 @@
 (library
  (name rig)
+ (public_name rig)
  (libraries graphics camlimages))

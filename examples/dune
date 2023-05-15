@@ -1,3 +1,3 @@
 (executables
- (names dot motion fish random_cubism ocean_sunset)
+ (names dot motion random_cubism ocean_sunset random_tree)
  (libraries graphics rig))

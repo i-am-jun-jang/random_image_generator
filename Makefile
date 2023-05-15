@@ -17,6 +17,9 @@ test:
 play:
 	OCAMLRUNPARAM=b dune exec bin/main.exe
 
+tree:
+	dune exec examples/random_tree.exe  
+
 check:
 	@bash check.sh
 
