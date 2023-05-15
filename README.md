@@ -2,7 +2,7 @@
 
 This project implements core functionality of Python module Turtle. You can make a bunch of art in a more intuitive way then using OCaml's graphics. Check out art.mli/ml for diverse sets of features.
 
-Run `$ make tree` in the command line for see images of random trees!
+Run `$ make tree` in the command line to see images of random trees!
 
 Random Tree Generator Demo:
 
